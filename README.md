@@ -16,7 +16,7 @@
 
 💬 Ask me about **Javascript... or anything [here](https://github.com/burhan1997)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs😆**
 
  </div>
  
