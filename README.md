@@ -62,7 +62,11 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-burhan1997.vercel.app/api/top-langs/?username=burhan1997&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=burhan1997&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=burhan1997&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=burhan1997&theme=onedark" />
+</div>
 <br/><br/>
 [![Trophies](https://github-profile-trophy.vercel.app/?username=burhan1997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr/>
