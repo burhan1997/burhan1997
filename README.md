@@ -64,7 +64,7 @@
 </div>
 
 <br/><br/>
-[![trophy](https://github-profile-trophy.vercel.app/burhan1997=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=burhan1997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr/>
 
 <br/>
