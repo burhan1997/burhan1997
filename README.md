@@ -47,7 +47,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![Snake animation](https://raw.githubusercontent.com/burhan1997/burhan1997/output/github-contribution-grid-snake-dark.svg)
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/burhan1997/burhan1997/output/github-contribution-grid-snake.svg" />
+
   
   <br/><br/><br/>
 </div>
@@ -63,4 +64,4 @@
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=burhan1997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Snake animation](https://raw.githubusercontent.com/burhan1997/burhan1997/output/github-contribution-grid-snake-dark.svg)
