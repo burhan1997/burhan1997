@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Javascript, API's, Node.js and databases**
 
-💬 Ask me about **Node.js, React, Javascript... or anything [here](https://github.com/burhan1997)**
+💬 Ask me about **Javascript... or anything [here](https://github.com/burhan1997)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -69,8 +69,4 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
-<br/>
