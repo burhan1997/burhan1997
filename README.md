@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **HackYourFuture**
  
- 🌱 I’m currently learning **Javascript, API's, Node.js and databases**
+ 🌱 I’m currently learning **Databases, Mongodb, MySQL**
 
 💬 Ask me about **Javascript... or anything [here](https://github.com/burhan1997)**
 
