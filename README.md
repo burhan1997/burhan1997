@@ -8,7 +8,6 @@
 
 <br/>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <div align="center">
  
@@ -19,6 +18,8 @@
 💬 Ask me about **Javascript... or anything [here](https://github.com/burhan1997)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs😆**
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
  </div>
  
