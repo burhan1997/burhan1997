@@ -13,7 +13,7 @@
  
  🔭 I’m currently studying at **HackYourFuture**
  
- 🌱 I’m currently learning **Databases, Mongodb, MySQL**
+ 🌱 I’m currently learning **REACT**
 
 💬 Ask me about **Javascript... or anything [here](https://github.com/burhan1997)**
 
