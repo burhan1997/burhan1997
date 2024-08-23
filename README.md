@@ -3,7 +3,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Burhan+Elaldi!;" />
 </h1>
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="350" height="350" /></p>
+
 <h3 align="center">A passionate web developer from Netherlands 🇳🇱</h3>
 
 <br/>
