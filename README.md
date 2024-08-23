@@ -22,7 +22,8 @@
 
 <br/>
 
-## 📫 Connect with Me
+<h3>📫 Connect with Me</h3>
+
 <a href="mailto:burhanelaldi97@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
 </a>
@@ -33,8 +34,22 @@
   <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #ff7e5f, #feb47b); animation: pulse 2s infinite;"/>
 
-<hr/>
+<style>
+@keyframes pulse {
+  0% {
+    background-color: #ff7e5f;
+  }
+  50% {
+    background-color: #feb47b;
+  }
+  100% {
+    background-color: #ff7e5f;
+  }
+}
+</style>
+
 
 
 
