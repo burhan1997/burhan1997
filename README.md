@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=burhan1997.burhan1997" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Burhan+Elaldi!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Burhan+Elaldi!+A+passionate+web+developer+from+Netherlands+%F0%9F%87%B3%F0%9F%87%B1;" />
 </h1>
 
 <h3 align="center">A passionate web developer from Netherlands 🇳🇱</h3>
