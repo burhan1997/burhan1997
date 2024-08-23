@@ -22,7 +22,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <h3>📫 Connect with Me</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">📫 Connect with Me
 
 <a href="mailto:burhanelaldi97@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
