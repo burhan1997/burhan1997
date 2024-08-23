@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<br/>
 
 ### 🛠 Tech Stack 🛠 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -66,12 +67,13 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
-
 <br/>
 
 ### 💻 Currently Learning 💻
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br/>
 
 ### 🚀 Planning to Learn 🚀
 
