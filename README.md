@@ -33,7 +33,9 @@
 <a href="https://github.com/burhan1997" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <br/>
+
 ### 🛠 Tech Stack 🛠 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,13 +68,13 @@
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 <br/>
-### 💻 Currently Learning 💻
 
+### 💻 Currently Learning 💻
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br/>
-### 🚀 Planning to Learn 🚀
 
+### 🚀 Planning to Learn 🚀
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
