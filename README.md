@@ -34,7 +34,8 @@
   <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #ff7e5f, #feb47b); animation: pulse 2s infinite;"/>
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #ff7e5f, #feb47b); margin: 20px 0;"/>
+
 
 <style>
 @keyframes pulse {
