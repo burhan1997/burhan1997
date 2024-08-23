@@ -10,11 +10,11 @@
 
 <div align="center">
  
-🔭 I’m currently studying at **HackYourFuture**
+🔭 I’m recently graduated from **HackYourFuture**
 
-🌱 I’m currently doing my **GRADUATION PROJECT**
+🌱 I’m currently learning my **Typescript**
 
-💬 Ask me about **Javascript, MYSQL, MONGODB, REACT... or anything [here](https://github.com/burhan1997)**
+💬 Feel free to ask me about anything. I'm here to help!
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs😆**
 
@@ -36,16 +36,9 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql" />
-</div>
 
-<br/>
-
-### 🛠 Tech Stack
+### 🛠 Tech Stack 🛠 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -79,11 +72,11 @@
 
 <br/>
 
-### 💻 Currently Learning
+### 💻 Currently Learning 💻
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🚀 Planning to Learn
+### 🚀 Planning to Learn 🚀
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
