@@ -5,9 +5,9 @@
 </h1>
 
 <h3 align="center">A passionate web developer from Netherlands 🇳🇱</h3>
-
-<br/>
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="350" height="350" /></p>
+<br/>
+
 <div align="center">
  
 🔭 I’m recently graduated from **HackYourFuture**
