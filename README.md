@@ -23,18 +23,16 @@
 <br/>
 
 ## 📫 Connect with Me
+<a href="mailto:burhanelaldi97@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/burhanelaldi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/burhan1997" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<div align="center">
-  <a href="mailto:burhanelaldi97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/burhanelaldi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/burhan1997" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
 <hr/>
 
