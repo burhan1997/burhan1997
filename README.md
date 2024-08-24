@@ -16,7 +16,7 @@ I am a passionate **Full Stack Developer** with 9 months of intensive training f
 
 My active participation in group projects, coding sessions, and code reviews has strengthened my teamwork and collaboration skills.
 
-🔍Currently, I am exploring new technologies, working on various projects, and seeking an internship to apply my skills in the real world.
+🔍Currently, I am exploring new technologies, working on various projects, and looking for an internship to apply my skills in the real world.
 
 💬 Feel free to ask me about anything. I'm here to help!
 
