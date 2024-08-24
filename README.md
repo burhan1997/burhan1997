@@ -3,7 +3,6 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Burhan+Elaldi!;" />
 </h1>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <h3 align="left">A passionate web developer from Netherlands 🇳🇱</h3>
 <br/>
@@ -11,12 +10,14 @@
 <div align="left">
  
 # Hello!
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I am a passionate **Full Stack Developer**. Over the past 9 months, I have successfully completed an intensive **Full Stack Web Development** course at Hack Your Future. During this time, I learned to build responsive and interactive web interfaces using **HTML**, **CSS**, and **JavaScript**, and developed applications using modern frameworks like **React**. I created server-side logic with **Node.js** and **Express**, effectively managing data flow between servers and users.
+I am a passionate Full Stack Developer. Over the past 9 months, I completed an intensive Full Stack Web Development course at Hack Your Future. I built responsive web interfaces using **HTML**, **CSS**, and **JavaScript**, and developed applications with **React**. I also created server-side logic with **Node.js** and **Express**, managing data flow between servers and users.
 
-I gained proficiency in both **SQL** and **NoSQL** database technologies, experience in data structuring, querying, and management. Additionally, I developed skills in creating and integrating **APIs**, successfully connecting front-end and back-end components. I actively participated in group projects, coding sessions, and code reviews, which strengthened my teamwork and collaboration skills.
+I gained experience with both **SQL** and **NoSQL** databases, including data structuring, querying, and management. Additionally, I developed skills in creating and integrating **APIs**, successfully connecting front-end and back-end components. My active participation in group projects, coding sessions, and code reviews has strengthened my teamwork and collaboration skills.
 
-With my passion for learning and interest in technology, I am currently looking for an internship opportunity where I can apply these skills in the real world.
+I am currently seeking an internship to apply my skills in the real world.
+
 
 💬 Feel free to ask me about anything. I'm here to help!
 
