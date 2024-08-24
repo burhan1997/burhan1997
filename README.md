@@ -10,7 +10,7 @@
 <div align="left">
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
   
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>About me
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> About me
 
 I am a passionate **Full Stack Developer** with 9 months of intensive training from Hack Your Future. I built responsive web interfaces with **HTML**, **CSS**, **JavaScript**, and **React**. I developed server-side logic using **Node.js** and **Express**, and managed data with **SQL** and **NoSQL** databases.
 
