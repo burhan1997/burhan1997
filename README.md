@@ -4,11 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Burhan+Elaldi!;" />
 </h1>
 
-<h3 align="center">A passionate web developer from Netherlands 🇳🇱</h3>
+<h3 align="left">A passionate web developer from Netherlands 🇳🇱</h3>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br/>
 
-<div align="center">
+<div align="left">
  
 🔭 I’m recently graduated from **HackYourFuture**
 
