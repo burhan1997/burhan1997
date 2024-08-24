@@ -12,7 +12,7 @@
  
 🔭 I’m recently graduated from **HackYourFuture**
 
-🌱 I’m currently learning my **Typescript**
+🌱 I’m currently learning **Typescript**
 
 💬 Feel free to ask me about anything. I'm here to help!
 
