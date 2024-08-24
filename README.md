@@ -9,14 +9,13 @@
 
 <div align="left">
  
-# Hello!
-
-I am a passionate Full Stack Developer. Over the past 9 months, I completed an intensive Full Stack Web Development course at Hack Your Future. I built responsive web interfaces using **HTML**, **CSS**, and **JavaScript**, and developed applications with **React**. I also created server-side logic with **Node.js** and **Express**, managing data flow between servers and users. I gained experience with both **SQL** and **NoSQL** databases, including data structuring, querying, and management.
+### About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+I am a passionate Full Stack Developer with 9 months of intensive training from Hack Your Future. I built responsive web interfaces with **HTML**, **CSS**, **JavaScript**, and **React**. I developed server-side logic using **Node.js** and **Express**, and managed data with **SQL** and **NoSQL** databases.
+
 My active participation in group projects, coding sessions, and code reviews has strengthened my teamwork and collaboration skills.
 
-I am currently seeking an internship to apply my skills in the real world.
-
+🔍Currently, I am exploring new technologies, working on various projects, and seeking an internship to apply my skills in the real world.
 
 💬 Feel free to ask me about anything. I'm here to help!
 
