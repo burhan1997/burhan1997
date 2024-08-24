@@ -64,12 +64,12 @@ My active participation in group projects, coding sessions, and code reviews has
 
 
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Currently Learning:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Currently Diving Into:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
-###  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;Planning to Learn:
+###  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;Next on My Learning Path:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
