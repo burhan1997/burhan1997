@@ -10,13 +10,15 @@
 
 <div align="left">
  
-🔭 I’m recently graduated from **HackYourFuture**
+# Hello!
 
-🌱 I’m currently learning **Typescript**
+I am a passionate **Full Stack Developer**. Over the past 9 months, I have successfully completed an intensive **Full Stack Web Development** course at Hack Your Future. During this time, I learned to build responsive and interactive web interfaces using **HTML**, **CSS**, and **JavaScript**, and developed applications using modern frameworks like **React**. I created server-side logic with **Node.js** and **Express**, effectively managing data flow between servers and users.
+
+I gained proficiency in both **SQL** and **NoSQL** database technologies, experience in data structuring, querying, and management. Additionally, I developed skills in creating and integrating **APIs**, successfully connecting front-end and back-end components. I actively participated in group projects, coding sessions, and code reviews, which strengthened my teamwork and collaboration skills.
+
+With my passion for learning and interest in technology, I am currently looking for an internship opportunity where I can apply these skills in the real world.
 
 💬 Feel free to ask me about anything. I'm here to help!
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs😆**
 
 </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
