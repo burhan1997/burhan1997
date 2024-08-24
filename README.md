@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate web developer from Netherlands 🇳🇱</h3>
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br/>
 
 <div align="center">
