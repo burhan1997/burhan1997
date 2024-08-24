@@ -10,9 +10,9 @@
 <div align="left">
  
 # Hello!
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
 I am a passionate Full Stack Developer. Over the past 9 months, I completed an intensive Full Stack Web Development course at Hack Your Future. I built responsive web interfaces using **HTML**, **CSS**, and **JavaScript**, and developed applications with **React**. I also created server-side logic with **Node.js** and **Express**, managing data flow between servers and users. I gained experience with both **SQL** and **NoSQL** databases, including data structuring, querying, and management.
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 My active participation in group projects, coding sessions, and code reviews has strengthened my teamwork and collaboration skills.
 
 I am currently seeking an internship to apply my skills in the real world.
