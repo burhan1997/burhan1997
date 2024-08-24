@@ -8,10 +8,10 @@
 <br/>
 
 <div align="left">
- 
-### About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
-I am a passionate Full Stack Developer with 9 months of intensive training from Hack Your Future. I built responsive web interfaces with **HTML**, **CSS**, **JavaScript**, and **React**. I developed server-side logic using **Node.js** and **Express**, and managed data with **SQL** and **NoSQL** databases.
+### About me
+
+I am a passionate **Full Stack Developer** with 9 months of intensive training from Hack Your Future. I built responsive web interfaces with **HTML**, **CSS**, **JavaScript**, and **React**. I developed server-side logic using **Node.js** and **Express**, and managed data with **SQL** and **NoSQL** databases.
 
 My active participation in group projects, coding sessions, and code reviews has strengthened my teamwork and collaboration skills.
 
