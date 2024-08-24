@@ -16,7 +16,7 @@ I am a dedicated **Full Stack Developer** with 9 months of intensive training fr
 
 My active participation in group projects, coding sessions, and code reviews has strengthened my teamwork and collaboration skills.
 
-🔍Currently, I am exploring new technologies, working on various projects, and looking for an internship to apply my skills in the real world.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="5">&nbsp;Currently, I am exploring new technologies, working on various projects, and looking for an internship to apply my skills in the real world.
 
 💬 Feel free to ask me about anything. I'm here to help!
 
