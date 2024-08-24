@@ -23,7 +23,7 @@
 <br/>
 
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Connect with Me
+### <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="20px" height="10px"> Connect with Me
 <a target="_blank" href="https://www.linkedin.com/in/burhanelaldi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:burhanelaldi97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/burhan1997"><img src="https://img.shields.io/badge/-Github-12100E?style=for-the-badge&logo=Github&logoColor=white"></img></a>
@@ -62,7 +62,7 @@
 
 
 
-### 💻 Currently Learning:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Currently Learning:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
