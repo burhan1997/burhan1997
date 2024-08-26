@@ -76,3 +76,7 @@ My active participation in group projects, coding sessions, and code reviews has
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+
+| ![Burhan's github stats](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&theme=tokyonight) | ![Burhan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burhan1997&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
