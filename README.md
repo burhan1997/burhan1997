@@ -82,8 +82,4 @@ My active participation in group projects, coding sessions, and code reviews has
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Burhan1997&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](https://github.com/Burhan1997/Burhan1997/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-<h4 align="center">
