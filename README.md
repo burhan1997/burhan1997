@@ -76,13 +76,9 @@ My active participation in group projects, coding sessions, and code reviews has
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Stats
 | ![Burhan's github stats](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&theme=algolia) | ![Burhan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burhan1997&theme=algolia) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
 
 
-<div align="center">
-  <img  src = "https://github.com/Burhan1997/Burhan1997/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
