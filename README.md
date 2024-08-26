@@ -21,8 +21,6 @@ My active participation in group projects, coding sessions, and code reviews has
 💬 Feel free to ask me about anything. I'm here to help!
 
 </div>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br/>
 
 
 ### <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="52.5px" height="28.57px">Connect with Me:
@@ -30,6 +28,8 @@ My active participation in group projects, coding sessions, and code reviews has
 <a target="_blank" href="mailto:burhanelaldi97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/burhan1997"><img src="https://img.shields.io/badge/-Github-12100E?style=for-the-badge&logo=Github&logoColor=white"></img></a>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/>
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Tech Stack:  
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
