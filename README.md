@@ -77,11 +77,8 @@ My active participation in group projects, coding sessions, and code reviews has
 
 
 
-| ![Burhan's github stats](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&theme=tokyonight) | ![Burhan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burhan1997&theme=tokyonight) |
+| ![Burhan's github stats](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&theme=algolia) | ![Burhan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burhan1997&theme=algolia) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
 
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Burhan1997&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Burhan1997 GitHub stats](https://github-readme-stats.vercel.app/api?username=Burhan1997&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia)](https://github.com/Burhan1997/github-readme-stats) [![Burhan1997 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Burhan1997&theme=algolia)](https://github.com/Burhan1997/github-readme-stats)
