@@ -79,7 +79,7 @@ My active participation in group projects, coding sessions, and code reviews has
 <br/>
 
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Stats
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Stats
 | ![Burhan's github stats](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&theme=algolia) | ![Burhan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burhan1997&theme=algolia) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
