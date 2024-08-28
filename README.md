@@ -22,6 +22,9 @@ My active participation in group projects, coding sessions, and code reviews has
 
 </div>
 
+[![Burhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Burhan1997&bg_color=cbc3c7&color=0d0d0d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ### <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="52.5px" height="28.57px">Connect with Me:
 <a target="_blank" href="https://www.linkedin.com/in/burhanelaldi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
