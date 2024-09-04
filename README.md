@@ -79,6 +79,15 @@ My active participation in group projects, coding sessions, and code reviews has
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 
+### Completed Projects
+
+| #  | Source Code | Click for Live Demo | Tech Stack |
+|----|-------------|---------------------|------------|
+| 1  | [Closer App](https://github.com/burhan1997/Graduation-Project-HYF) | ![Closer App Screenshot](<img width="1492" alt="Ekran Resmi 2024-09-04 22 02 52" src="https://github.com/user-attachments/assets/e11c4993-44b4-49d0-9996-b553187ee0d0">
+) | Next.js, TypeScript, TailwindCSS |
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Stats
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Burhan1997&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
