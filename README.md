@@ -79,17 +79,11 @@ My active participation in group projects, coding sessions, and code reviews has
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 
-### Completed Projects
+## Completed Projects
 
-| # | Source Code | Click for Live Demo | Tech Stack |
-|---|-------------|---------------------|------------|
-| 1  | [Closer App](https://github.com/burhan1997/Graduation-Project-HYF) | <a href="https://c47-group-b.hackyourfuture.tech/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Dh_1yKC68chp9kLpHonOgc0IlgHzbCdK" alt="Closer App Screenshot" width="800" /></a> | 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| # | Source Code | Click for Live Demo | 
+|---|-------------|---------------------|
+| 1  | [Closer App](https://github.com/burhan1997/Graduation-Project-HYF) | <a href="https://c47-group-b.hackyourfuture.tech/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Dh_1yKC68chp9kLpHonOgc0IlgHzbCdK" alt="Closer App Screenshot" width="800" /></a> |
 
 
 
