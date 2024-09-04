@@ -83,7 +83,8 @@ My active participation in group projects, coding sessions, and code reviews has
 
 | #  | Source Code | Click for Live Demo | Tech Stack |
 |----|-------------|---------------------|------------|
-| 1  | [Closer App](https://github.com/burhan1997/Graduation-Project-HYF) | ![Closer App Screenshot](<img width="500" alt="Ekran Resmi 2024-09-04 22 02 52" src="https://github.com/user-attachments/assets/e11c4993-44b4-49d0-9996-b553187ee0d0"> ) | Next.js, TypeScript, TailwindCSS |
+| 1  | [Closer App](https://github.com/burhan1997/Graduation-Project-HYF) | <a href="https://c47-group-b.hackyourfuture.tech/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Dh_1yKC68chp9kLpHonOgc0IlgHzbCdK" alt="Closer App Screenshot" width="200" /></a> | Next.js, TypeScript, TailwindCSS |
+
 
 
 
