@@ -86,14 +86,7 @@ My active participation in group projects, coding sessions, and code reviews has
 | # | Source Code | Click for Live Demo | Tech Stack |
 |----|-------------|---------------------|------------|
 | 1  | [Closer App](https://github.com/burhan1997/Graduation-Project-HYF) | <a href="https://c47-group-b.hackyourfuture.tech/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Dh_1yKC68chp9kLpHonOgc0IlgHzbCdK" alt="Closer App Screenshot" width="800" /></a> | 
-Javascript  
-React  
-MongoDB  
-Express.js  
-Node.js |
-
-
-
+Javascript  React  MongoDB  Express.js  Node.js |
 
 
 
