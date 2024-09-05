@@ -100,7 +100,7 @@ My active participation in group projects, coding sessions, and code reviews has
   <tr>
     <td>
       <a href="https://github.com/burhan1997/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=onedark" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=radical" />
       </a>
     </td>
     <td>
