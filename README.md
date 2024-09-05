@@ -89,7 +89,7 @@ My active participation in group projects, coding sessions, and code reviews has
 
 
 
-
+<img src="https://drive.google.com/uc?export=view&id=11x7wimtKr-JZArC_vlwCVtqCbAs9_hOB" alt="The Weather App Screenshot" width="600" />
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
