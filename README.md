@@ -101,8 +101,8 @@ My active participation in group projects, coding sessions, and code reviews has
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.burhan1997.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
+      <a href="https://github.com/burhan1997/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.burhan1997.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=onedark" />
       </a>
     </td>
     <td>
