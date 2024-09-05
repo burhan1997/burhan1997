@@ -96,13 +96,11 @@ My active participation in group projects, coding sessions, and code reviews has
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Stats
 
-<h3><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Stats</h3>
-
 <table>
   <tr>
     <td>
       <a href="https://github.com/burhan1997/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.burhan1997.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=onedark" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=onedark" />
       </a>
     </td>
     <td>
