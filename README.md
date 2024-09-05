@@ -100,7 +100,7 @@ My active participation in group projects, coding sessions, and code reviews has
   <tr>
     <td>
       <a href="https://github.com/burhan1997/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan1997&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
       </a>
     </td>
     <td>
@@ -108,6 +108,7 @@ My active participation in group projects, coding sessions, and code reviews has
     </td>
   </tr>
 </table>
+
 
 
 
