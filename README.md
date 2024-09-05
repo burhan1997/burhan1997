@@ -100,14 +100,15 @@ My active participation in group projects, coding sessions, and code reviews has
   <tr>
     <td>
       <a href="https://github.com/burhan1997/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan1997&layout=compact&bg_color=0,1E1E1E,333333&title_color=fff&text_color=fff&theme=nightowl" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan1997&layout=compact&bg_color=0,2D2D2D,1E1E1E&title_color=fff&text_color=fff&theme=nightowl" />
       </a>
     </td>
     <td>
-      <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=burhan1997&bg_color=0,1E1E1E,333333&title_color=fff&text_color=fff&show_icons=true&theme=nightowl" />
+      <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=burhan1997&bg_color=0,2D2D2D,1E1E1E&title_color=fff&text_color=fff&show_icons=true&theme=nightowl" />
     </td>
   </tr>
 </table>
+
 
 
 
