@@ -96,9 +96,9 @@ My active participation in group projects, coding sessions, and code reviews has
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Stats
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) |
-| --- |
-| <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=burhan1997&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" /> |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan1997&theme=algolia) | <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=burhan1997&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" /> |
+| --- | --- |
+
 
 
 
