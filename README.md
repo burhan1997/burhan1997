@@ -85,12 +85,8 @@ My active participation in group projects, coding sessions, and code reviews has
 |----|-------------|---------------------|
 | 1  | [Closer App](https://github.com/burhan1997/Graduation-Project-HYF) | <a href="https://c47-group-b.hackyourfuture.tech/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1Dh_1yKC68chp9kLpHonOgc0IlgHzbCdK" alt="Closer App Screenshot" width="600" /></a> |
 | 2  | [Quiz App](https://github.com/burhan1997/Quiz-Application) | <a href="https://66ca6ccc361cdf6d3fe6ae15--stellular-basbousa-034ba1.netlify.app/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1zNPcng4qwYwjE0ngli7wqbCGOdUOD5T6" alt="Quiz App Screenshot" width="600" /></a> |
-| 3  | [The Weather App](https://github.com/burhan1997/The-Weather-Application) | <a href="https://the-weather-application-uykg-r7srb5tt2.vercel.app/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=11x7wimtKr-JZArC_vlwCVtqCbAs9_hOB" alt="The Weather App Screenshot" width="600" /></a> |
+| 3  | [The Weather App](https://github.com/burhan1997/The-Weather-Application) | <a href="https://the-weather-application-uykg-r7srb5tt2.vercel.app/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=19_ZDCzqceoCKh-sbvNhZ2I66FI46y2Nm" alt="The Weather App Screenshot" width="600" /></a> |
 
-
-
-
-<img src="https://asset.cloudinary.com/dbciebe1z/acf5cb0ee175fa94cb472718502ff623" alt="The Weather App Screenshot" width="600" />
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
