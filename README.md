@@ -89,6 +89,7 @@ My active participation in group projects, coding sessions, and code reviews has
 
 
 
+
 <img src="https://asset.cloudinary.com/dbciebe1z/acf5cb0ee175fa94cb472718502ff623" alt="The Weather App Screenshot" width="600" />
 
 
